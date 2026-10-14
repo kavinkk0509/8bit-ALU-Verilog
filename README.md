@@ -107,4 +107,4 @@ Kavin K K
 Electronics and Communication Engineering Student  
 Interested in RTL Design and Digital VLSI
 
-GitHub: https://github.com/kavinkk0509
+GitHub Profile: [@kavinkk0509](https://github.com/kavinkk0509)
